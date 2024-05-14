@@ -1,3 +1,0 @@
-pass = vYFjn08yt930w99y
-
-mongodb+srv://ssapphire527:<password>@cluster0.zpqi9d7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
