@@ -30,7 +30,7 @@ app.get("/",(req,res)=>{
 })
 
 app.listen(PORT, ()=>{
-    console.log(`Server started https://localhost:${PORT} `);
+    console.log(`Server started http://localhost:${PORT} `);
 })
 
 
