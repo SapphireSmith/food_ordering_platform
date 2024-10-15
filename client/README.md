@@ -1,8 +1,24 @@
-# React + Vite
+# Vite + React Frontend Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a Vite-powered React frontend application. Vite provides an extremely fast development environment, and this project is set up for modern React development with minimal configuration.
 
-Currently, two official plugins are available:
+## Features
+- Fast development build using [Vite](https://vitejs.dev/).
+- React 18 with JSX and ES6+ support.
+- Hot module replacement for faster development.
+- Configured for easy deployment and optimization.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Prerequisites
+
+- **Node.js** installed on your system. Download from [here](https://nodejs.org/).
+- **Git** for version control. Download from [here](https://git-scm.com/).
+
+## Installation
+
+### 1. Clone the Repository
+To clone the repository, open your terminal and run the following command:
+
+```bash
+git clone https://github.com/yourusername/your-vite-react-app.git
+```
