@@ -23,10 +23,17 @@ To clone the repository, open your terminal and run the following command:
 git clone https://github.com/yourusername/your-vite-react-app.git
 ```
 ### 2. install dependencies
-Go to the cloned file and open your terminal and run the following command:
+Go to the cloned file and /client and open your terminal and run the following command:
 
 ```bash
 npm install
+```
+
+### 3. Run the project
+Go to the cloned file and open your terminal and run the following command:
+
+```bash
+npm run dev
 ```
 
 
