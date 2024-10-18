@@ -13,6 +13,8 @@ This is a Vite-powered React frontend application. Vite provides an extremely fa
 
 - **Node.js** installed on your system. Download from [here](https://nodejs.org/).
 - **Git** for version control. Download from [here](https://git-scm.com/).
+- **MongoDB** installed locally or have access to a MongoDB cloud instance via [MongoDB Atlas](https://www.mongodb.com/atlas/database).
+- **React** 
 
 ## Installation
 
