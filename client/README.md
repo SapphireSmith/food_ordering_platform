@@ -22,7 +22,7 @@ This is a Vite-powered React frontend application. Vite provides an extremely fa
 To clone the repository, open your terminal and run the following command:
 
 ```bash
-git clone https://github.com/yourusername/your-vite-react-app.git
+git clone https://github.com/SapphireSmith/your-vite-react-app.git
 ```
 ### 2. install dependencies
 Go to the cloned file and /client and open your terminal and run the following command:
