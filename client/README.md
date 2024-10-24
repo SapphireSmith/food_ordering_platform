@@ -37,7 +37,14 @@ Go to the cloned file and open your terminal and run the following command:
 ```bash
 npm run dev
 ```
+### 3. Run the project
+Go to the cloned file and open your terminal and run the following command:
 
+```bash
+npm run dev
+```
 
+### 4. Open the browser
+Open your browser at http://localhost:5173/
 
 
